@@ -1,4 +1,4 @@
-# CropVault - Unlocking Agricultural Insights, One Upload at a Time
+# AgriConnect- Unlocking Agricultural Insights, One Upload at a Time
 
 CropVault is a Flutter-based mobile application designed to streamline the process of collecting crop data samples from various regions. The app provides a user-friendly interface for farmers to upload images and data related to their crops, while admins can manage folders and assign farmers to them.
 
